@@ -1,0 +1,12 @@
+Submitted by: Amir Efrati and Danit Yshaayahu.
+
+Files in the project:
+README - this file.
+main.py - the main files that runs all the project.
+statistics.py - contains all the functions that responsible for calculating
+statistics of the corpus.
+viterbi_algo.py - contains the viterbi algorithms and their helper functions.
+project.doc - our written project with background, results and consequences.
+
+Comment:
+For running the project run the main.py file. This will take about 50 minutes.
